@@ -1,0 +1,28 @@
+{
+  "name": "zod-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mspoulsen/zod-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mspoulsen/zod-error/issues"
+  },
+  "homepage": "https://github.com/mspoulsen/zod-error#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.11",
+    "typescript": "^4.1.2",
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "zod": "^1.11.10"
+  }
+}
