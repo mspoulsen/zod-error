@@ -1,6 +1,8 @@
-import * as z from 'zod'
+import {
+  literal
+} from 'zod'
 
-const foo = z.literal("foo")
+const foo = literal("foo")
 
 const s = "foo"
 
